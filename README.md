@@ -1,6 +1,66 @@
 # Portifolio-tech-DIO
 Plano de início de carreira em Tech desenvolvido com apoio de IA
 
+Resultado obtido:
+
+📅 ROADMAP DE 120 DIAS
+ADAPTADO PARA: 8 horas/semana
+MÊS 1 - GITHUB + FUNDAMENTOS
+SEMANA 1-2:
+- Criar conta no GitHub e configurar Git local
+- Aprender comandos básicos: git init, git add, git commit, git push
+- Criar primeiro repositório: “Estudos Front-End”
+- Revisar HTML e CSS (tags, semântica, flexbox, grid)
+SEMANA 3-4:
+- Criar páginas simples responsivas e subir no GitHub
+- Fundamentos de JavaScript (variáveis, funções, DOM)
+- Documentar cada exercício em README.md
+
+MÊS 2 - PRÁTICA + GITHUB
+SEMANA 5-6:
+- Introdução ao React (componentes, props, estado)
+- Criar mini-aplicações (contador, lista de tarefas)
+- Publicar cada projeto em repositórios separados no GitHub
+SEMANA 7-8:
+- Consumo de APIs REST (fetch/axios)
+- Renderização de dados em React
+- Aprender branches e pull requests no GitHub
+
+MÊS 3 - PORTFÓLIO + DOCUMENTAÇÃO
+SEMANA 9-10:
+- Projeto completo em React (CRUD simples)
+- Aplicar boas práticas de código
+- Criar README detalhado com instruções de uso
+SEMANA 11-12:
+- Deploy do projeto no Vercel
+- Publicar link no GitHub
+- Aprender GitHub Pages para hospedar projetos estáticos
+
+MÊS 4 - CONSOLIDAÇÃO + PORTFÓLIO PESSOAL
+SEMANA 13-14:
+- Criar segundo projeto (ex: app de notas ou catálogo de filmes)
+- Usar GitHub Issues para organizar tarefas
+SEMANA 15-16:
+- Revisar todo o conteúdo estudado
+- Criar portfólio pessoal no GitHub Pages com links para todos os projetos
+- Preparar currículo com link para GitHub e projetos publicados
+
+🚀 PROJETO DE PORTFÓLIO
+PROJETO: Aplicação de Lista de Tarefas com React + GitHub
+O QUE FAZER:
+Criar uma aplicação web onde o usuário pode adicionar, editar e remover tarefas, com persistência em localStorage. Publicar no GitHub com README detalhado e deploy no Vercel.
+ENTREGÁVEIS:
+- Interface responsiva
+- CRUD completo de tarefas
+- Repositório GitHub com README e deploy online
+CRITÉRIOS DE ACEITAÇÃO:
+- Funcionalidades funcionando sem erros
+- Código organizado e versionado no GitHub
+- Deploy acessível com link no README
+DICA: Use commits pequenos e descritivos para mostrar evolução do projeto.
+
+PROMPTS PARA IA:
+
 Agente 1: entrevistador de carreira disponibilizado pelo professor Henrique Souza da DIO:
 ´´´
 Você é um entrevistador especializado em descobrir o perfil profissional de pessoas interessadas em tecnologia.
@@ -343,61 +403,5 @@ Minha solicitação ao Copilot:
 Poderia colocar GitHub em primeiro para que eu comece a ter meus estudos no github
 ´´´
 
-Resultado obtido:
 
-📅 ROADMAP DE 120 DIAS
-ADAPTADO PARA: 8 horas/semana
-MÊS 1 - GITHUB + FUNDAMENTOS
-SEMANA 1-2:
-- Criar conta no GitHub e configurar Git local
-- Aprender comandos básicos: git init, git add, git commit, git push
-- Criar primeiro repositório: “Estudos Front-End”
-- Revisar HTML e CSS (tags, semântica, flexbox, grid)
-SEMANA 3-4:
-- Criar páginas simples responsivas e subir no GitHub
-- Fundamentos de JavaScript (variáveis, funções, DOM)
-- Documentar cada exercício em README.md
-
-MÊS 2 - PRÁTICA + GITHUB
-SEMANA 5-6:
-- Introdução ao React (componentes, props, estado)
-- Criar mini-aplicações (contador, lista de tarefas)
-- Publicar cada projeto em repositórios separados no GitHub
-SEMANA 7-8:
-- Consumo de APIs REST (fetch/axios)
-- Renderização de dados em React
-- Aprender branches e pull requests no GitHub
-
-MÊS 3 - PORTFÓLIO + DOCUMENTAÇÃO
-SEMANA 9-10:
-- Projeto completo em React (CRUD simples)
-- Aplicar boas práticas de código
-- Criar README detalhado com instruções de uso
-SEMANA 11-12:
-- Deploy do projeto no Vercel
-- Publicar link no GitHub
-- Aprender GitHub Pages para hospedar projetos estáticos
-
-MÊS 4 - CONSOLIDAÇÃO + PORTFÓLIO PESSOAL
-SEMANA 13-14:
-- Criar segundo projeto (ex: app de notas ou catálogo de filmes)
-- Usar GitHub Issues para organizar tarefas
-SEMANA 15-16:
-- Revisar todo o conteúdo estudado
-- Criar portfólio pessoal no GitHub Pages com links para todos os projetos
-- Preparar currículo com link para GitHub e projetos publicados
-
-🚀 PROJETO DE PORTFÓLIO
-PROJETO: Aplicação de Lista de Tarefas com React + GitHub
-O QUE FAZER:
-Criar uma aplicação web onde o usuário pode adicionar, editar e remover tarefas, com persistência em localStorage. Publicar no GitHub com README detalhado e deploy no Vercel.
-ENTREGÁVEIS:
-- Interface responsiva
-- CRUD completo de tarefas
-- Repositório GitHub com README e deploy online
-CRITÉRIOS DE ACEITAÇÃO:
-- Funcionalidades funcionando sem erros
-- Código organizado e versionado no GitHub
-- Deploy acessível com link no README
-DICA: Use commits pequenos e descritivos para mostrar evolução do projeto.
 
