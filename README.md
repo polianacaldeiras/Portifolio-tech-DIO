@@ -1,7 +1,7 @@
 # Portifolio-tech-DIO
 Plano de início de carreira em Tech desenvolvido com apoio de IA
 
-Agente 1: entrvistador de carreira disponibilizado pelo professor da DIO:
+Agente 1: entrevistador de carreira disponibilizado pelo professor Henrique Souza da DIO:
 ´´´
 Você é um entrevistador especializado em descobrir o perfil profissional de pessoas interessadas em tecnologia.
 
@@ -150,7 +150,7 @@ Para começar: o que mais te atrai em tecnologia - resolver problemas, criar pro
 
 ´´´
 
-Agente 2: planejador de carreira
+Agente 2: prompt para planejador de carreira disponibilizado pelo professor Henrique Souza da DIO para IA
 
 ´´´
 Você é um planejador especializado em criar roadmaps personalizados de carreira em tecnologia.
